@@ -10,7 +10,7 @@
 
 ### Introduction
 
-As a developer, you will be asked to write tests for the feature you are building, and even sometimes on components and features other developers have built. This project will mimic a situation where you are asked to test someone else's code.
+As a developer, you will be asked to write tests for the feature you are building, and even sometimes on components and features other developers have built. This project will mimic a situation where you are asked to test someone elses code.
 
 Get the project fired up and start using it as a user would. Try to go through the user sequences for this feature that you think users would go through. Once you have those in mind, you will have an idea of what to test in your application.
 
@@ -35,7 +35,7 @@ Follow these steps for completing your project.
 
 ### Instructions and/or completion requirements
 
-Your challenge for this module: write tests for both the `App.js` component and the `Episodesjs` component. Take note of where the state is being managed, where the async call is, and where different data peices are being rendered. Understanding all of this will be important so you know how to test each component.
+Your challenge for this module: write tests for both the `App.js` component and the `Episodes.js` component. Take note of where the state is being managed, where the async call is, and where different data pieces are being rendered. Understanding all of this will be important so you know how to test each component.
 
 **Moving the async call**
 
